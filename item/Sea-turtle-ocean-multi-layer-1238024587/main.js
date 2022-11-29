@@ -20,7 +20,7 @@ function checkEMAIL()
 window.onload = function() {
     document.getElementById('botondescargar').addEventListener('click', function(event) {
         if(checkEMAIL() === true) {
-            window.open('file:///C:/Users/youst/Desktop/Nueva%20carpeta%20(7)/Multi-Layer-Mandala-Sea-Turtle.zip', '_blank').focus();
+            window.open('https://shutterlaser.com/item/Sea-turtle-ocean-multi-layer-1238024587/Multi-Layer-Mandala-Sea-Turtle.zip', '_blank').focus();
         }
     });
 }
